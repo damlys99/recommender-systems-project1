@@ -1,6 +1,6 @@
 # Project 1: Hotel Recommender
 
-That project is a simple recommender based on data from hotels. Created for Recommender Systems Class conducted by @PiotrZiolo
+That project is a simple recommender based on data from hotels. Created for Recommender Systems Class conducted by [@PiotrZiolo]( https://github.com/PiotrZiolo )
 
 ## Requirements:
 
